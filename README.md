@@ -13,8 +13,11 @@ This is a movie ticket booking website where users can browse movies, select sho
 
 📲 Save Selections: Selected movie index, price, and seat selections are saved in local storage, allowing users to resume their booking even after refreshing the page.
 Implementation Details
-_
-The website is implemented using HTML for structure, CSS for styling, and JavaScript for interactivity. Here's how each feature is implemented:_
+
+
+
+
+_**The website is implemented using HTML for structure, CSS for styling, and JavaScript for interactivity. Here's how each feature is implemented:_**
 
 
 🎬 Movie Selection: Movie titles and showtimes are displayed dynamically on the webpage.
